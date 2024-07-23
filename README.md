@@ -4,7 +4,8 @@
 Hi, I’m Ajmal! I build iOS apps using Swift and SwiftUI and am passionate about learning new skills and exploring different technologies. I also have a bit of experience with HTML and CSS.
 
 
-<img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ajmalpoovanath&show_icons=true&bg_color=0D1117"/> &#8287;&#8287;&#8287;&#8287;&#8287;<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com?user=ajmalpoovanath&theme=transparent&hide_border=false&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
+
+<a href=""><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ajmalpoovanath&show_icons=true&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com?user=ajmalpoovanath&theme=transparent&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" /></a>
 
 <p align = "center">
   <a href="https://www.instagram.com/_.ajmal1/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
